@@ -10,6 +10,7 @@ Add to Gemfile:
 
 or from the source:
 
+    gem 'ferroslider-rails', git: 'git@github.com:grych/ferroslider-rails.git'
     gem 'ferroslider-rails', git: 'http://github.com/grych/ferroslider-rails.git'
 
 Install:
