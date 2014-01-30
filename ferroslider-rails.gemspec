@@ -12,7 +12,7 @@ Gem::Specification.new do |gem|
   gem.summary       = "Gemified ferroslider"
   gem.homepage      = "https://github.com/grych/ferroslider-rails"
 
-  gem.files         =  Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.rdoc"]
+  gem.files         =  Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
   gem.require_paths = ["lib"]
   gem.add_dependency "railties", "~> 3.1"
   gem.add_dependency "jquery_transit-rails", "~> 0.9.9"
