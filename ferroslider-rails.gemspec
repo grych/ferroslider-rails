@@ -15,4 +15,5 @@ Gem::Specification.new do |gem|
   gem.files         =  Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
   gem.require_paths = ["lib"]
 #  gem.add_dependency "jquery_transit-rails", "~> 0.9"
+  gem.add_dependency "railties"
 end
