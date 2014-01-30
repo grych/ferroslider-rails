@@ -5,8 +5,11 @@ Gemifies ferroSlider: http://www.alessandroferrini.it/lab/jQueryPlugins/ferroSli
 ## Installation
 
 Add to Gemfile:
+
     gem 'ferroslider-rails'
+
 or from the source:
+
     gem 'ferroslider-rails', git: 'http://github.com/grych/ferroslider-rails.git'
 
 Install:
